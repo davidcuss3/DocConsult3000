@@ -1,0 +1,4 @@
+Tipo,ID,Nombre,Especialidad/E edad,Fecha
+Doctor,123,Javier,Psicologo
+Paciente,234,Xochilt,22
+Cita,2025-10-12JavXoc,2025-10-12,123,Javier,Psicologo,234,Xochilt,22
