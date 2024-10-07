@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DocConsult:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DocConsult_jar</output-path>
+    <root id="archive" name="DocConsult.jar">
+      <element id="module-output" name="DocConsult" />
+    </root>
+  </artifact>
+</component>
